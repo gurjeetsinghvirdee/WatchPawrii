@@ -18,3 +18,4 @@ const RoomId = ({ roomId }) => {
 };
 
 export default RoomId;
+
